@@ -1,0 +1,13 @@
+C:\Users\chad_\source\repos\NthPrime\NthPrime\bin\Debug\netcoreapp3.1\NthPrime.exe
+C:\Users\chad_\source\repos\NthPrime\NthPrime\bin\Debug\netcoreapp3.1\NthPrime.deps.json
+C:\Users\chad_\source\repos\NthPrime\NthPrime\bin\Debug\netcoreapp3.1\NthPrime.runtimeconfig.json
+C:\Users\chad_\source\repos\NthPrime\NthPrime\bin\Debug\netcoreapp3.1\NthPrime.runtimeconfig.dev.json
+C:\Users\chad_\source\repos\NthPrime\NthPrime\bin\Debug\netcoreapp3.1\NthPrime.dll
+C:\Users\chad_\source\repos\NthPrime\NthPrime\bin\Debug\netcoreapp3.1\NthPrime.pdb
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.csprojAssemblyReference.cache
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.AssemblyInfoInputs.cache
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.AssemblyInfo.cs
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.csproj.CoreCompileInputs.cache
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.dll
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.pdb
+C:\Users\chad_\source\repos\NthPrime\NthPrime\obj\Debug\netcoreapp3.1\NthPrime.genruntimeconfig.cache
